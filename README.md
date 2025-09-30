@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, sou o Nando Almeida
 
-<!--
-**nandoalmeidam/nandoalmeidam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Apaixonado por backend, APIs, microserviços e escalabilidade.
+* Tecnologias que uso: Python, Django, Flask, Postgres, Redis, Docker, etc.
+* Atualmente trabalhando em: … (ou estudando / projetos pessoais)
 
-Here are some ideas to get you started:
+## 🧰 Projetos em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui vão alguns dos meus projetos favoritos:
+
+- [Colisao](link) — descrição breve  
+- [Painel-Solar-app](link) — descrição breve  
+- [django_alura](link) — descrição breve  
+
+## 📫 Contato
+
+- LinkedIn: [seu perfil]  
+- E-mail: seu.email@exemplo.com  
+- Portfólio: www.seuportfolio.com  
+
