@@ -8,13 +8,10 @@
 
 Aqui vão alguns dos meus projetos favoritos:
 
-- [Colisao](link) — descrição breve  
-- [Painel-Solar-app](link) — descrição breve  
-- [django_alura](link) — descrição breve  
+- [Painel-Solar-app] - Projeto criado participando do Challenge do 1o ano da FIAP
+- [Colisao] - Visualização de um jogo simples
 
 ## 📫 Contato
 
-- LinkedIn: [seu perfil]  
-- E-mail: seu.email@exemplo.com  
-- Portfólio: www.seuportfolio.com  
-
+- LinkedIn: linkedin.com/in/fernandoamartines/ 
+- E-mail: nando.a.g.martines@gmail.com
